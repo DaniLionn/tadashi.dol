@@ -1,5 +1,4 @@
-template.o: \
- /home/dani/Documents/GitHub/wii-examples/audio/oggplayer/source/template.c \
+template.o: /home/dani/Documents/GitHub/tadashi.dol/source/template.c \
  /opt/devkitpro/libogc/include/gccore.h \
  /opt/devkitpro/libogc/include/ogc/dsp.h \
  /opt/devkitpro/libogc/include/gctypes.h \
@@ -59,8 +58,8 @@ template.o: \
  /opt/devkitpro/libogc/include/bte/bte.h \
  /opt/devkitpro/libogc/include/bte/bd_addr.h \
  /opt/devkitpro/libogc/include/asndlib.h \
- /home/dani/Documents/GitHub/wii-examples/audio/oggplayer/source/oggplayer.h \
- /home/dani/Documents/GitHub/wii-examples/audio/oggplayer/build/sample_ogg.h
+ /home/dani/Documents/GitHub/tadashi.dol/source/oggplayer.h \
+ /home/dani/Documents/GitHub/tadashi.dol/build/sample_ogg.h
 /opt/devkitpro/libogc/include/gccore.h:
 /opt/devkitpro/libogc/include/ogc/dsp.h:
 /opt/devkitpro/libogc/include/gctypes.h:
@@ -120,5 +119,5 @@ template.o: \
 /opt/devkitpro/libogc/include/bte/bte.h:
 /opt/devkitpro/libogc/include/bte/bd_addr.h:
 /opt/devkitpro/libogc/include/asndlib.h:
-/home/dani/Documents/GitHub/wii-examples/audio/oggplayer/source/oggplayer.h:
-/home/dani/Documents/GitHub/wii-examples/audio/oggplayer/build/sample_ogg.h:
+/home/dani/Documents/GitHub/tadashi.dol/source/oggplayer.h:
+/home/dani/Documents/GitHub/tadashi.dol/build/sample_ogg.h:
